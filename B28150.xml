@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plain truth: or, arguments humbly offer'd to prove, that nothing inferiour to a total prohibition of all gold and silver once melted in England, will prevent its exportation.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28150</idno><idno type="EEBO-CITATION">99885587</idno>
+  <idno type="VID">185359</idno>
+  <idno type="EEBO-PROQUEST">2240894929</idno>
+  
+            <idno type="STC">Wing P2370</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[36]</idno>
+            <idno type="STC">ESTC R224681</idno>
+            <idno type="PROQUEST">ocm99885587</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885587e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185359)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plain truth: or, arguments humbly offer'd to prove, that nothing inferiour to a total prohibition of all gold and silver once melted in England, will prevent its exportation.</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>With a docket title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Finance, Public --  Great Britain --  1688-1815 --  Early works to 1800.</term>
+               <term type="topical_term">Guinea (Coin) --  Early works to 1800.</term>
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+               <term type="topical_term">Money --  Early works to 1800.</term>
+               <term type="topical_term">Foreign exchange --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:185359:1"/>
+            <head>
+               <hi>Plain Truth:</hi> OR, ARGUMENTS Humbly Offer'd to prove, That nothing Inferiour to <hi>A Total Prohibition</hi> OF ALL GOLD and SILVER ONCE Melted in England, Will prevent its Exportation.</head>
+            <p>THE Melting down of almost all our Mill'd Money, <hi>The</hi> present great want of Treasure to defray the Expence of the War, <hi>The</hi> deadness of our Manufactures (especially Woollen) <hi>The</hi> unpa<g ref="char:EOLhyphen"/>rallell'd abuse of Clipping and Counterfeiting; <hi>The</hi> raising of <hi>Guinea</hi>'s above their Intrinsick Value; <hi>The</hi> turning the small remains of our Mill'd and Broad Money into a sort of Ware, so that 'tis bought and sold, at Prices far beyond its Original Value, <hi>With the</hi> extravagant price of Sil<g ref="char:EOLhyphen"/>ver and Gold Bullion, are <hi>All</hi> so plainly the Mischievous Consequences of the <hi>Exportation</hi> of the Treasure of the Land, that it has pleas'd the <hi>Great Council</hi> of Our Nation to take the Matter into their Consideration, in order to apply a Remedy to these <hi>Growing Evils.</hi>
+            </p>
+            <p>But <hi>the Men</hi> who have brought these Mischiefs upon us, being sen<g ref="char:EOLhyphen"/>sible, That if <hi>An Effectual Means</hi> were us'd to <hi>Prevent Expor<g ref="char:EOLhyphen"/>tation,</hi> it would stop the Current of their Profit; have therefore us'd all their <hi>Power</hi> and <hi>Interest</hi> (and do still use it) to hinder such a <hi>Good Law,</hi> Or if <hi>They</hi> cannot altogether hinder a <hi>Law,</hi> then to procure <hi>such an one</hi> as may put the whole Power into their <hi>Own hands.</hi>
+            </p>
+            <pb n="2" facs="tcp:185359:2"/>
+            <p>And here since the <hi>Open and Bare-faced Truth</hi> must be spoken (<hi>Loqui Volumus, nam scimus</hi> Amyclas <hi>tacendo periisse) Some</hi> of the most power<g ref="char:EOLhyphen"/>ful <hi>Goldsmiths</hi> and <hi>Refiners,</hi> &amp;c. of <hi>London</hi> have been the <hi>Great Exporters</hi> of our Treasure, if not worse— <hi>Clippings and Ingots of Mill'd Money are not distinguish'd by <hi>Smell,</hi> from Forreign Silver.</hi>
+            </p>
+            <p>These are <hi>The Men</hi> that have been the great <hi>Remora's</hi> of this most <hi>Necessary and Profitable Law;</hi> And therefore when the <hi>House of Lords</hi> were pleased to intimate to the <hi>Goldsmiths,</hi> that they should prepare a Bill to prevent these Mischiefs; 'Twas descanted (agreeable to the sincerity of <hi>these Men</hi>) in these Words, <hi>Since they Will have a Rattle, they must have a Rattle.</hi>
+            </p>
+            <p>'Tis Natural to All Men, to remove the <hi>Scandal</hi> to their Neighbours Door which should lie at their Own, and therefore say <hi>these Men</hi> (with a seeming Concern) <hi>Those Rogues the Iews carry away all the Silver out of the Nation</hi> (so sensible are they that <hi>Exportation of our Treasure</hi> is <hi>Odious</hi> and <hi>Destructive</hi>) Tho' at the same time they are careful that the <hi>Guilt</hi> of <hi>the Nations Ruine</hi> shall not lie <hi>altogether</hi> on the <hi>Iews,</hi> by Eporting <hi>Themselves</hi> as much as they can.</p>
+            <p>If therefore the <hi>Power</hi> of determining whether Silver be <hi>Lawful, <hi>i. e.</hi>
+               </hi> Forreign Bullion, be left to <hi>These Men,</hi> 'Twill be, in plain Words (since we must speak plain) <hi>To make Criminals Judges of their own Of<g ref="char:EOLhyphen"/>fence.</hi>
+            </p>
+            <p>That an Oath of the <hi>Lawfulness of Bullion to be Transported,</hi> will not stop the Mischief, is apparent; since if the <hi>Exporter▪ himself</hi> Melt either Clippings, Money, <hi>&amp;c.</hi> (which is neither difficult, tedious, or laborious) privately first into small Ingots, <hi>&amp;c.</hi> and his Servant afterwards melt the same Numerical Ingots, <hi>&amp;c.</hi> into larger, for <hi>Exportation,</hi> The Ser<g ref="char:EOLhyphen"/>vant will become capable of Swearing, that what he Melted was nei<g ref="char:EOLhyphen"/>ther <hi>Clippings, Plate,</hi> nor the <hi>Coin of the Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Those</hi> who have evaded the Law in Melting down our <hi>Mill'd Money,</hi> and Clipping the <hi>Broad; Those</hi> who raise to themselves <hi>Estates</hi> by <hi>se<g ref="char:EOLhyphen"/>cret Gainful</hi> ways, <hi>&amp;c.</hi> Will never want Men to Swear (if they boggle themselves) to evade a <hi>New Law,</hi> which leaves 'em the liberty of Ex<g ref="char:EOLhyphen"/>porting what they please, at the Expence of an Oath.</p>
+            <p>It's from a due Regard to the <hi>Honour</hi> which a Bill that has past thro <hi>The most Honourable House of Lords,</hi> and has been twice read in the <hi>Ho<g ref="char:EOLhyphen"/>nourable House of Commons,</hi> has thence obtain'd (and not as it came from <hi>Those</hi> who call'd it a <hi>Rattle</hi>) that we do not presume to shew the Invalidity of That Bill, <hi>&amp;c.</hi> But surely there can be no <hi>Material Objection</hi> against the Prohibiting <hi>All Gold and Silver once Melted in England,</hi> but such as carries with it some dark-side to hide <hi>some Mens</hi> particular Profits, at the damage of the Nation, and the Encou<g ref="char:EOLhyphen"/>ragement of Perjury.</p>
+            <p>
+               <hi>It's therefore humbly Pray'd,</hi>
+            </p>
+            <p>That a Law be made to Prohibit <hi>All Gold and Silver once Melted in England,</hi> and the Proof to lie on the Exporter, that
+<pb n="3" facs="tcp:185359:2"/> what he Exports is Forreign Bullion (according to that most just and provident Resolution of the <hi>Committee,</hi> &amp;c.) to facilitate which (if the <hi>Parliament</hi> think fit) it may be Enacted,</p>
+            <p>That All Forreign Bullion Imported in Ingots for the future (For<g ref="char:EOLhyphen"/>reign Coins by their Stamp and Character will speak for themselves, and may be exempted) be enter'd at the <hi>Custom-House,</hi> Custom free, and there to receive some Stamp, <hi>&amp;c.</hi> Gratis, <hi>On Oath first made, that <hi>That Bullion</hi> was received on board from some parts beyond the Seas, in the same form which now it bears,</hi> &amp;c. Which Entrance will (if it comes to be Exported) help the Exporter in his Proof: And that <hi>no Bullion</hi> be Exported, but what is found so enter'd.</p>
+            <p>That <hi>All Gold</hi> Imported, not in Ingots (if Exported) be not Melted here in this Nation.</p>
+            <p>
+               <hi>Such a Law</hi> can be detrimental to <hi>None,</hi> but <hi>Such</hi> as desire to increase their private Wealth, by ways destructive to the National Interest.</p>
+            <p>This will give Liberty to no sort of Men to use the Law to insult on their Neighbours, or raise Objections where there are none, or to find none where they ought to be rais'd.</p>
+            <p>'Twill establish no new Office, or harras the <hi>Subject</hi> by new <hi>Directors</hi> of what is, or is not fit to be Exported.</p>
+            <p>'Twill lay no Men under the Temptation of Perjury, by Profit to themselves, or fear of a Master, <hi>&amp;c.</hi> And as to what relates to the Prevention of Clipping, if our Money be new Mill'd (which is the <hi>only <hi>Effectual</hi> Way</hi> to prevent it) nothing need be added on that Head.</p>
+            <p>And for Preventing the Melting of our Money for the future, if the Law Provide that the Money be raised▪ (according to the Resolution of the <hi>Committee</hi>) and whatever is raised, to go towards the Fund for making good the Clipt Money, <hi>This</hi> will prevent Melting down at <hi>Home,</hi> and will also return it, if carried <hi>Abroad,</hi> and also pefectly Cure a Pernicious Pra<g ref="char:EOLhyphen"/>ctice used by some Men, of <hi>Culling <hi>the Weightiest Money</hi>
+               </hi> to Melt down, in order to be Recoin'd; which practice will still continue, if the Profits of Coinage be not diverted to some such good Purpose, as making good the dificiency of our light Money, &amp;c.</p>
+            <p>This <hi>Honourable House</hi> will soon distinguish betwixt this Pa<g ref="char:EOLhyphen"/>per and that <hi>Shoal of Proposals, Projects &amp;c.</hi> offer'd with intimations of private Advantages to particular Men, Since here's no other <hi>Good</hi> but the <hi>Publick,</hi> design'd: No New Offices proposed to gratifie <hi>Projecters, &amp;c.</hi> No dangerous and tempting Profits to be put into the Power of a <hi>few Men</hi> who have already given no very good proofs of their preferring the <hi>Publick</hi> before <hi>Private</hi> Interest.</p>
+            <p>The Honesty of this Paper will therefore (it's hop'd) car<g ref="char:EOLhyphen"/>ry with it it's own Recommendation to this <hi>August Assembly;</hi> Whom the <hi>Great God</hi> bless and make truly Honourable, in becoming the <hi>Healers</hi> of the Wounds of this Nation.</p>
+         </div>
+         <div type="docket_title">
+            <pb facs="tcp:185359:3"/>
+            <p>
+               <hi>Plain Truth:</hi> OR, ARGUMENTS Humbly Offer'd to Prove, That nothing Inferiour to <hi>A Total Prohibition</hi> OF ALL GOLD and SILVER ONCE Melted in <hi>England,</hi> Will prevent its Exportation.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
